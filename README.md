@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/DemonBunnyBon/TLD-Edible-Plants/blob/main/Thumb_EP.png?raw=true)
+![Screenshot](https://github.com/DemonBunnyBon/CaffeinatedSodas/blob/main/THUMB_CS.png?raw=true)
 # Caffeinated Sodas
 
 A mod for The Long Dark, which gives sodas a fatigue reduction buff. Since sodas often contain caffeine and are high in sugar they're bound to give you at least a little kick, right?
