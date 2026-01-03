@@ -15,8 +15,8 @@
 
 	<PropertyGroup>
 		<!-- This should point to wherever your games primary EXE is -->
-		<TheLongDarkPath>D:\Games\steamapps\common\TheLongDark\</TheLongDarkPath>
-		<ReleaseFolderPath>D:\TLDMOD\Release\</ReleaseFolderPath>
+		<TheLongDarkPath>/home/marcy/.local/share/Steam/steamapps/common/TheLongDark</TheLongDarkPath>
+		<ReleaseFolderPath>/home/marcy/Documents/TLD Stuff/TLDMod/Release</ReleaseFolderPath>
 	</PropertyGroup>
 
 
